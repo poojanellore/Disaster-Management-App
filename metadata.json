@@ -1,0 +1,6 @@
+{
+  "name": "DisasterGuard",
+  "description": "AI-Powered Natural Disaster Prediction & Staggered Evacuation Management System with Command Center & Citizen Mobile Views",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
